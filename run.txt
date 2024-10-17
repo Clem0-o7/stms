@@ -1,0 +1,4 @@
+To run fixed in GUI
+python fixed.py --gui -s 500
+To run Dynamic in GUI
+python train.py -m city1 -s 500
